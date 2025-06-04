@@ -101,16 +101,5 @@ Once each module works individually, integrate the system to:
 
 ---
 
-## 📃 License
-
-This project is for academic and learning purposes. Modify and distribute freely.
-
-## 👨‍💻 Author
-
-Developed by Goutham Kumar 
-For Final Year Embedded Systems Project  
-Guided by [Instructor or Institution Name if needed]
-
----
 
 **ALL THE BEST 👍**
